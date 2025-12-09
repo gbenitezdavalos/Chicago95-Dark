@@ -1465,15 +1465,15 @@ StScrollBar StButton#hhandle {
 /* Win95 Dark panel & menu palette (Cinnamon only) */
 #panel,
 #panel * {
-  background-color: #181818;
-  color: #e0e0e0;
+  background-color: #1B1527;
+  color: #ffffff;
 }
 
 .panel-top,
 .panel-bottom,
 .panel-left,
 .panel-right {
-  background-color: #181818;
+  background-color: #1B1527;
   border: none;
   border-image: none;
   box-shadow: inset 0 -1px 0 #000000;
@@ -1484,8 +1484,8 @@ StScrollBar StButton#hhandle {
 .panel-button,
 .panel-status-button,
 .panel-zone {
-  background-color: #181818;
-  color: #e0e0e0;
+  background-color: #1B1527;
+  color: #ffffff;
   border: 1px solid #000000;
   box-shadow: inset 1px 1px #242424, inset -1px -1px #000000;
 }
@@ -1499,7 +1499,7 @@ StScrollBar StButton#hhandle {
 .panel-button:active,
 .panel-status-button:active {
   background-color: #242424;
-  color: #e0e0e0;
+  color: #ffffff;
 }
 
 .panel-dummy {
@@ -1517,8 +1517,8 @@ StScrollBar StButton#hhandle {
 .popup-menu-boxpointer,
 .popup-menu-content,
 .menu-box {
-  background-color: #131313;
-  color: #e0e0e0;
+  background-color: #1B1527;
+  color: #ffffff;
   border: 1px solid #000000;
   box-shadow: inset 1px 1px #242424, inset -1px -1px #000000;
 }
@@ -1526,7 +1526,7 @@ StScrollBar StButton#hhandle {
 .popup-menu-item,
 .menu-application-button,
 .menu-category-button {
-  color: #e0e0e0;
+  color: #ffffff;
 }
 
 .popup-menu-item:insensitive,
@@ -1549,6 +1549,7 @@ StScrollBar StButton#hhandle {
 .menu-application-button:hover:not(:active):not(.menu-application-button-selected),
 .menu-category-button:hover:not(.menu-category-button-selected) {
   background-color: #242424;
+  color: #ffffff;
 }
 
 .popup-separator-menu-item {
@@ -1561,16 +1562,16 @@ StScrollBar StButton#hhandle {
 
 .menu-favorites-box,
 .menu-categories-box {
-  background-color: #181818;
-  color: #e0e0e0;
+  background-color: #251C34;
+  color: #ffffff;
   border: 1px solid #000000;
   box-shadow: inset 1px 1px #242424, inset -1px -1px #000000;
 }
 
 .menu-applications-outer-box,
 .menu-applications-inner-box {
-  background-color: #131313;
-  color: #e0e0e0;
+  background-color: #1B1527;
+  color: #ffffff;
 }
 
 .menu-applications-inner-box {
@@ -2024,15 +2025,15 @@ StScrollBar StButton#hhandle {
 
   padding-bottom: 0px;
 
-  background-color: #131313;
-  color: #e0e0e0; }
+  background-color: #1B1527;
+  color: #ffffff; }
 
 
 
 .menu-application-button {
 
   padding: 4px;
-  color: #e0e0e0;
+  color: #ffffff;
 
   max-width: 10px; }
 
@@ -2076,7 +2077,7 @@ StScrollBar StButton#hhandle {
 .menu-category-button {
 
   padding: 4px;
-  color: #e0e0e0; }
+  color: #ffffff; }
 
 
 
