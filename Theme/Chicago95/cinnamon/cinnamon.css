@@ -28,10 +28,10 @@ StScrollView StScrollBar {
   min-width: 16px;
   min-height: 16px; }
 
-StScrollBar StBin#trough {
-  background-color: #ffffff;
-  background-image: url("scrollbar/checker-board-pattern.png");
-  background-repeat: repeat; }
+StScrollBar StBin#trough {
+  background-color: #131313;
+  background-image: url("scrollbar/checker-board-pattern.png");
+  background-repeat: repeat; }
 
 StScrollBar StButton#vhandle {
   background-color: #131313;
@@ -45,8 +45,8 @@ StScrollBar StButton#hhandle {
   border-radius: 0px;
   padding: 2px 6px;
   border: 1px solid black;
-  color: black;
-  background-color: #ffffe1;
+  color: #ffffff;
+  background-color: #131313;
   font-size: 10pt;
   font-weight: normal;
   text-align: center; }
@@ -712,9 +712,9 @@ StScrollBar StButton#hhandle {
   .ripple-box:rtl {
     background-image: url("misc-assets/corner-ripple.png"); }
 
-.switcher-arrow {
-  border-color: rgba(0, 0, 0, 0);
-  color: #dcdcdc; }
+.switcher-arrow {
+  border-color: rgba(0, 0, 0, 0);
+  color: #ffffff; }
   .switcher-arrow:highlighted {
     border-color: rgba(0, 0, 0, 0);
     color: white; }
@@ -725,11 +725,11 @@ StScrollBar StButton#hhandle {
 /* ===================================================================
  * Modal dialogs (modalDialog.js)
  * ===================================================================*/
-.modal-dialog {
-  font-size: 10pt;
-  border-image: url("background-assets/menu.png") 6;
-  color: rgb(70, 70, 70);
-  padding: 20px; }
+.modal-dialog {
+  font-size: 10pt;
+  border-image: url("background-assets/menu.png") 6;
+  color: #ffffff;
+  padding: 20px; }
 
 .modal-dialog-button-box {
   spacing: 110px;
@@ -910,7 +910,7 @@ StScrollBar StButton#hhandle {
   color: rgb(70, 70, 70);
   padding: 5px;
   -arrow-border-radius: 4px;
-  -arrow-background-color: #ffffe1;
+  -arrow-background-color: #131313;
   -arrow-border-width: 1px;
   -arrow-border-color: rgba(49, 49, 49, 0.4);
   -arrow-base: 18px;
@@ -1326,7 +1326,7 @@ StScrollBar StButton#hhandle {
 }
 
 .workspace-graph .workspace:active {
-  border: 1px solid #ffffff;
+  border: 1px solid #525252;
   background-color: #131313;
 }
 
@@ -1339,7 +1339,7 @@ StScrollBar StButton#hhandle {
 
 .workspace-graph .workspace:active .windows {
   -active-window-background: #000080;
-  -active-window-border: #ffffff;
+  -active-window-border: #525252;
   -inactive-window-background: #525252;
   -inactive-window-border: #000000;
 }

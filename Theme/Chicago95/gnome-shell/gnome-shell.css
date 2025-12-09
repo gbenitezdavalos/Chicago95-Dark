@@ -123,7 +123,7 @@ StEntry {
   padding: 4px;
   border-width: 1px;
   color: #000000;
-  background-color: #ffffff;
+  background-color: #131313;
   box-shadow: none;
   border-image: url("assets/box-inset.png") 3 3 3 3;
   selection-background-color: #000080;
@@ -1162,7 +1162,7 @@ StScrollBar {
   border-radius: 0px;
   border-color: #8d8d8d;
   color: #000000;
-  background-color: #ffffff;
+  background-color: #131313;
   border-image: url("assets/entry.png") 3 3 3 3; }
   .search-entry:focus {
     padding: 6px 8px;
@@ -1244,7 +1244,7 @@ StScrollBar {
   border-radius: 0px;
   padding: 4px 8px;
   color: #000000;
-  background-color: #ffffe1;
+  background-color: #131313;
   text-align: center;
   -x-offset: 8px; }
 
@@ -1428,12 +1428,12 @@ StScrollBar {
   margin: 5px;
   border-radius: 6px;
   color: #000000;
-  background-color: #ffffe1;
+  background-color: #131313;
   border: 1px solid #000000; }
   .notification-banner:hover {
-    background-color: #ffffe1; }
+    background-color: #131313; }
   .notification-banner:focus {
-    background-color: #ffffe1; }
+    background-color: #131313; }
   .notification-banner .notification-icon {
     padding: 5px; }
   .notification-banner .notification-content {
@@ -1770,7 +1770,7 @@ StScrollBar {
     margin-top: 6px;
     background-color: #000000; }
   .login-dialog-user-list-item:focus .login-dialog-timed-login-indicator {
-    background-color: #ffffff; }
+    background-color: #131313; }
 
 .login-dialog-username,
 .user-widget-label {
