@@ -1,8 +1,8 @@
-/* XPM */
-static char * left_inactive_xpm[] = {
-"4 1 4 1",
-"$	c #FFFFFF s inactive_hilight_1",
-"+	c #DFDFDF s inactive_hilight_2",
-"@      c #C0C0C0 s inactive_mid_1",
-"&      c #FF00FF s inactive_border_color",
-"$+&@"};
+/* XPM */
+static char * left_inactive_xpm[] = {
+"4 1 4 1",
+"$	c #ffffff s inactive_hilight_1",
+"+	c #DFDFDF s inactive_hilight_2",
+"@      c #131313 s inactive_mid_1",
+"&      c #FF00FF s inactive_border_color",
+"$+&@"};

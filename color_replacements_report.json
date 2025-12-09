@@ -1,0 +1,6353 @@
+{
+  "files": {
+    "Extras/Chicago95.theme": {
+      "#c0c0c0": 3,
+      "#ffffff": 3,
+      "#000000": 4,
+      "#808080": 2,
+      "#000080": 2
+    },
+    "Extras/Chicago95_qt.conf": {
+      "#c0c0c0": 12,
+      "#ffffff": 12,
+      "#000000": 16,
+      "#808080": 8,
+      "#000080": 6
+    },
+    "Extras/make_html.sh": {
+      "#000080": 1,
+      "#008080": 1
+    },
+    "Extras/recolor.py": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 2,
+      "#808080": 2,
+      "#000080": 1
+    },
+    "Extras/terminalrc": {
+      "#c0c0c0": 3,
+      "#ffffff": 3,
+      "#000000": 3,
+      "#808080": 2,
+      "#000080": 2
+    },
+    "INSTALL.md": {
+      "#008080": 1
+    },
+    "Icons/Chicago95-tux/actions/16/pan-down-symbolic.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 4
+    },
+    "Icons/Chicago95-tux/actions/16/pan-right-symbolic.svg": {
+      "#ffffff": 1,
+      "#000000": 2,
+      "#808080": 4
+    },
+    "Icons/Chicago95-tux/actions/scalable/address-book-new.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/appointment-new.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/contact-new.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/document-new.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/document-open-recent.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/document-print-preview.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/document-print.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/document-properties.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/document-save.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/edit-find-replace.svg": {
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/edit-paste.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/go-bottom.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/go-down.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/go-first.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/go-jump.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/go-last.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/go-next.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/go-previous.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/go-top.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/go-up.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/gtk-print-error.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/gtk-print-paused.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/gtk-print-report.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/gtk-print-warning.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/help-contents.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/help-faq.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/insert-image.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/insert-link.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/insert-object.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/jockey-proprietary.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/mail-mark-important.png": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/mail-mark-read.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/mail-mark-unread.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/mail-message-new.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/mail-send-receive.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/mail-send.png": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/media-import-audio-cd.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/object-inverse.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/system-lock-screen.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/system-log-out.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/system-reboot.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/system-restart.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/system-restart_old.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/system-run.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/system-search.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/system-shutdown.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/view-refresh.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1
+    },
+    "Icons/Chicago95-tux/actions/scalable/window-new.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/animations/48/pk-action-refresh-cache.svg": {
+      "#c0c0c0": 588,
+      "#ffffff": 173,
+      "#000000": 479,
+      "#808080": 99
+    },
+    "Icons/Chicago95-tux/apps/scalable/abiword.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/accessories-character-map.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/accessories-dictionary.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/accessories-text-editor.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/applets-screenshooter.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/application-default-icon.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/apport.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/aptoncd.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#008080": 1,
+      "#e0e0e0": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/archive-manager.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/calc.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/catfish.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/ccsm.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/chromium-browser.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/clock.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/com.visualstudio.code.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/dconf-editor.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/desktop-effects.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#000080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/display-im6.q16.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/easytag.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/eject_pc_cool_6_48x48x4.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/empathy.svg": {
+      "#c0c0c0": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/eom.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/evolution.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/facebook.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#000080": 1,
+      "#00ffff": 1,
+      "#e0e0e0": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/firefox.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/firefox_2.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/gcolor2.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/gimp.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/glade.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/gmail.svg": {
+      "#ffffff": 2,
+      "#000000": 1,
+      "#e0e0e0": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/gmusicbrowser.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/gnome-desktop-config.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/gnome-do.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/gnome-fs-bookmark-missing.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/gnome-network-properties.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/gnome-panel-force-quit.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/gnome-panel-notification-area.svg": {
+      "#ffffff": 2,
+      "#000000": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/gnome-panel-window-list.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/gnome-power-manager.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#e0e0e0": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/gnome-session-hibernate.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/gnome-session-switch.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/gnome-shutdown.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/gnome-sound-recorder.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/gnome-sudoku.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/google-hangout.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/gstreamer-properties.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/gtkpod.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/help-browser.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/hwbrowser.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/im-jabber.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/im-msn.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/im-msn_2.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/im-msn_48.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/im.svg": {
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/internet-mail.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/internet-news-reader.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/kazam.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/libreoffice-base.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/libreoffice-calc.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/libreoffice-impress.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/libreoffice-main.svg": {
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/libreoffice-math.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/lightdm-gtk-greeter-settings.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/locale_48x48.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/logviewer.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/lxfind.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/lxfind_48.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/mahjong.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/mail.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/mate-notification-properties.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/mate-panel-launcher.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/mate-power-manager.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/mate-preferences-desktop-display.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/mateconf-editor.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/mdmsetup.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/media-player-banshee.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/midori.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/mines.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/miro-browse.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/miro.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/mozo.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/mplayer.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/mugshot.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/multimedia-photo-manager.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/office-address-book.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#008080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/ooo-draw.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/ooo-writer.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/org.xfce.panel.separator.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/palemoon.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/palm-pilot.svg": {
+      "#ffffff": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/pidgin.svg": {
+      "#c0c0c0": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/plugin-scale.svg": {
+      "#ffffff": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/preferences-desktop-accesibility.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/preferences-desktop-default-applications.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/preferences-desktop-font.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/preferences-desktop-keyboard-shortcuts.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/preferences-desktop-locale.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/preferences-desktop-remote-desktop.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/preferences-desktop-screensaver.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/preferences-desktop-theme.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/preferences-desktop-wallpaper.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/preferences-desktop.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/preferences-system-network.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/preferences-system-power.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/preferences-system-services.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/preferences-system-windows.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/redshift-status-off.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/redshift-status-on.svg": {
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/serpentine.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/session-properties.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#000080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/shotwell.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/simple-scan.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/software.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/softwarecenter.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/stock_keyring.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/system-config-display.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/system-file-manager.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/system-log-out.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/system-software-update.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/system-users.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/thunderbird.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/tomboy.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/totem.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/ubiquity.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/virtualbox.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#000080": 1,
+      "#00ffff": 1,
+      "#e0e0e0": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/xchat-gnome.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/xfce4-cpufreq-plugin.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/xfce4-fsguard-plugin-warning.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/xfce4-notifyd.svg": {
+      "#c0c0c0": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/xfce4-panel.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/xfce4-splash.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/xfce4-workspaces.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/apps/scalable/youtube.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/categories/scalable/application-community.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/categories/scalable/applications-internet.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/categories/scalable/configuration_section.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/categories/scalable/plugins-general.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#e0e0e0": 1
+    },
+    "Icons/Chicago95-tux/categories/scalable/preferences-desktop-peripherals.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/categories/scalable/preferences-desktop-personal.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/audio-input-microphone.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/battery.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/block-device.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/blueman-cellular.svg": {
+      "#ffffff": 2,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/blueman-desktop.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/blueman-handheld.svg": {
+      "#ffffff": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/blueman-keyboard.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/blueman-loudspeaker.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/blueman-mouse.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/blueman-pointing.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/blueman-scanner.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/blueman-smart-phone.svg": {
+      "#ffffff": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/camera-photo.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/camera-video.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/cups.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/cupsprinter.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/drive-harddisk-root.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/drive-harddisk-scsi.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/drive-harddisk-system.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/foomatic-gui-logo.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/gnome-cd.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/gnome-computer.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/gnome-dev-disc-audio.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/gnome-dev-disc-cdrom.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/gnome-dev-dvd-alt.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/gnome-dev-flashdisk.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/gnome-dev-flashkey.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/gnome-dev-jazdisk.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/gnome-dev-media-memory.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/gnome-dev-memory.svg": {
+      "#c0c0c0": 1,
+      "#000000": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/gnome-dev-pcmcia.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/gnome-dev-printer-new.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/gnome-dev-unknown-1394.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/gnome-dev-unknown-usb.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/gnome-fs-blockdev.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/gnome-mouse-properties.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/gnome-mouse.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/gnome-phone-manager.svg": {
+      "#ffffff": 2,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/gnome-screenshot.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/gnome-settings-mouse.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/gtklp.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/gtklpq.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/input-tablet.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/media-cdr.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/media-cdrom-audio.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/media-cdrw.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/media-dvd.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/media-dvdrw.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/media-jaz.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/media-memory-sd.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/media-memory-sm.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/media-memory.svg": {
+      "#c0c0c0": 1,
+      "#000000": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/media-optical-cd-r.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/media-optical-cd-rw.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/media-optical-cdr.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/media-optical-dvd-r-plus.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/media-optical-dvd-r.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/media-optical-dvd-ram.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/media-optical-dvd-rom.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/media-optical-dvd-rw.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/monitor.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/multimedia-player-apple-ipod-touch.svg": {
+      "#ffffff": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/multimedia-player-apple-ipod.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/multimedia-player-ipod-touch.svg": {
+      "#ffffff": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/multimedia-player-ipod.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/multimedia-player.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/music-player.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/network-firewall.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2
+    },
+    "Icons/Chicago95-tux/devices/scalable/phone-motorola-droid.svg": {
+      "#ffffff": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/processor.svg": {
+      "#c0c0c0": 1,
+      "#000000": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/scanner.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/stock_music-library.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/devices/scalable/system-config-printer.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/emblems/scalable/emblem-colors-blue.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/emblems/scalable/emblem-colors-brown.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/emblems/scalable/emblem-colors-green.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/emblems/scalable/emblem-colors-grey.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/emblems/scalable/emblem-colors-orange.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/emblems/scalable/emblem-colors-red.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/emblems/scalable/emblem-colors-violet.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/emblems/scalable/emblem-colors-white.svg": {
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/emblems/scalable/emblem-colors-yellow.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/emblems/scalable/emblem-default.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/emblems/scalable/emblem-documents.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/emblems/scalable/emblem-downloads.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/emblems/scalable/emblem-generic.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/emblems/scalable/emblem-important.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/emblems/scalable/emblem-mail.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/emblems/scalable/emblem-new.svg": {
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/emblems/scalable/emblem-noread.svg": {
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/emblems/scalable/emblem-nowrite.svg": {
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/emblems/scalable/emblem-package.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/emblems/scalable/emblem-photos.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/emblems/scalable/emblem-readonly.svg": {
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/emblems/scalable/emblem-shared.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/emblems/scalable/emblem-symbolic-link.svg": {
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/emblems/scalable/emblem-system.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/emblems/scalable/emblem-unreadable.svg": {
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/emblems/scalable/emblem-urgent.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/emblems/scalable/emblem-web.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/application-7zip.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/application-certificate.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/application-epub+zip.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/application-illustrator.svg": {
+      "#c0c0c0": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/application-msword.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/application-octet-stream.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/application-pdf.svg": {
+      "#c0c0c0": 1,
+      "#000000": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/application-rss+xml.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/application-vnd.nokia.qt.qmakeprofile.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/application-vnd.nokia.xml.qt.resource.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/application-vnd.oasis.opendocument.chart.png.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/application-vnd.oasis.opendocument.chart.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/application-x-cd-image.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/application-x-executable.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/application-x-flash-video.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/application-x-java.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/application-x-ms-dos-executable.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/application-x-object.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/application-x-php.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/application-x-rar.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/application-x-shellscript.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/application-x-sln.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/application-x-theme.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/application-zip.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/audio-x-generic.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/audio-x-playlist.svg": {
+      "#c0c0c0": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/authors.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/empty.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/empty_48x48.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/extension.svg": {
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/font-x-generic.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/gnome-mime-application-pdf.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/gnome-mime-application-x-glade.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/image-bmp.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/image-gif.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/image-jpeg.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/image-png.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/image-tiff.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2
+    },
+    "Icons/Chicago95-tux/mimes/scalable/image-x-compressed-xcf.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/image-x-generic.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/image-x-ico.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/image-x-psd.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/image-x-tga.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/image-x-xcf.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/image.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/libreoffice-calc.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/libreoffice-database.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/libreoffice-drawing-template.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/libreoffice-drawing.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/libreoffice-formula.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/libreoffice-presentation-template.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/libreoffice-presentation.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/libreoffice-spreadsheet-template.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/libreoffice-text-template.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/libreoffice-text.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/media-audio.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/msaccess.exe_14_259_4_48x48x4.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/office-contact.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/office-database.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/package-x-generic.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/text-css.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/text-html.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/text-x-c++.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/text-x-c++hdr.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/text-x-changelog.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/text-x-chdr.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/text-x-csharp.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/text-x-csrc.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/text-x-generic-template.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/text-x-install.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/text-x-java-source.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/text-x-javascript.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/text-x-kgw.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/text-x-lua.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/text-x-makefile.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/text-x-perl.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/text-x-preview.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/text-x-python.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/text-x-ruby.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/text-x-script.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/text-x-vala.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/video-x-generic.svg": {
+      "#c0c0c0": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/x-office-adress-book.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/x-office-document-templat.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/x-office-document-template.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/x-office-drawing-template.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/x-office-drawing.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/mimes/scalable/x-office-spreadsheet-template.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/places/scalable/application-x-gnome-saved-search.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/places/scalable/desktop.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/places/scalable/edittrash.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/places/scalable/emptytrash.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/places/scalable/folder-documents.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/places/scalable/folder-drag-accept.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/places/scalable/folder-music-symbolic.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/places/scalable/folder-publicshare.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/places/scalable/folder-recent.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/places/scalable/folder-remote-ftp.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/places/scalable/folder-templates-symbolic.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/places/scalable/folder-ubuntuone.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/places/scalable/folder-videos.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/places/scalable/folder_download.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/places/scalable/folder_home.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/places/scalable/folder_images.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/places/scalable/folder_open.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/places/scalable/gnome-fs-bookmark.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/places/scalable/mail-mailbox.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1
+    },
+    "Icons/Chicago95-tux/places/scalable/network-server.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/places/scalable/stock_music-library.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/places/scalable/user-bookmarks.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/appointment-missed.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/appointment-soon.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/aptdaemon-add.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/audio-volume-high.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/audio-volume-low.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/audio-volume-medium.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/audio-volume-muted.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/avatar-default.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/battery-000-charging.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/battery-000.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/battery-020-charging.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/battery-020.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/battery-040-charging.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/battery-040.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/battery-060-charging.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/battery-060.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/battery-080-charging.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/battery-080.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/battery-100-charging.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/battery-100.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/battery-ac-adapter.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/connect_creating.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#000080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/connect_no.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/dialog-password.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/gnome-dev-wavelan-encrypted.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/gnome-fs-loading-icon.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/gnome-netstatus-error.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/gnome-netstatus-idle.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/gnome-netstatus-rx.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#000080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/gnome-netstatus-tx.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/mail-attachment.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/mail-read.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/mail-replied.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/mail-unread.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/media-playlist-repeat.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/media-playlist-shuffle.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/printer-error.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/security-low.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/security-medium.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/software-update-available.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/software-update-urgent.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/task-due.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/task-past-due.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/weather-clear-night.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/weather-clear.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/weather-few-clouds-night.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/weather-few-clouds.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/weather-overcast.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/weather-severe-alert.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/weather-showers-scattered.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/weather-showers.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/weather-snow.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95-tux/status/scalable/weather-storm.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/stock/scalable/avatar-default.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95-tux/stock/scalable/stock_network-printer.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95-tux/stock/scalable/stock_people.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/actions/icons.html": {
+      "#000080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95/actions/scalable/address-book-new.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/actions/scalable/appointment-new.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1
+    },
+    "Icons/Chicago95/actions/scalable/contact-new.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/actions/scalable/document-new.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/actions/scalable/document-print-preview.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/actions/scalable/document-print.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/actions/scalable/document-properties.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/actions/scalable/document-save.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1
+    },
+    "Icons/Chicago95/actions/scalable/edit-find-replace.svg": {
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/actions/scalable/go-bottom.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/actions/scalable/go-down.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/actions/scalable/go-first.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/actions/scalable/go-jump.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/actions/scalable/go-last.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/actions/scalable/go-next.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/actions/scalable/go-previous.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/actions/scalable/go-top.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/actions/scalable/go-up.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/actions/scalable/gtk-print-error.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/actions/scalable/gtk-print-paused.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/actions/scalable/gtk-print-report.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/actions/scalable/gtk-print-warning.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/actions/scalable/help-contents.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/actions/scalable/help-faq.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/actions/scalable/insert-image.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1
+    },
+    "Icons/Chicago95/actions/scalable/insert-link.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1
+    },
+    "Icons/Chicago95/actions/scalable/insert-object.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/actions/scalable/jockey-proprietary.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/actions/scalable/mail-mark-important.png": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/actions/scalable/mail-mark-read.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/actions/scalable/mail-mark-unread.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/actions/scalable/mail-message-new.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/actions/scalable/mail-send-receive.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/actions/scalable/mail-send.png": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/actions/scalable/media-import-audio-cd.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/actions/scalable/object-inverse.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1
+    },
+    "Icons/Chicago95/actions/scalable/system-lock-screen.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/actions/scalable/system-log-out.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/actions/scalable/system-reboot.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/actions/scalable/system-restart_old.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/actions/scalable/system-run.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/actions/scalable/system-search.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/actions/scalable/system-shutdown.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/actions/scalable/trash-empty.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/actions/scalable/view-refresh.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1
+    },
+    "Icons/Chicago95/actions/scalable/window-new.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/animations/48/pk-action-refresh-cache.svg": {
+      "#c0c0c0": 588,
+      "#ffffff": 173,
+      "#000000": 479,
+      "#808080": 99
+    },
+    "Icons/Chicago95/animations/icons.html": {
+      "#000080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95/apps/icons.html": {
+      "#000080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95/apps/scalable/abiword.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/apps/scalable/accessories-character-map.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/apps/scalable/accessories-dictionary.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/apps/scalable/accessories-text-editor.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/applets-screenshooter.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/application-default-icon.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/apps/scalable/apport.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/apps/scalable/aptoncd.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#008080": 1,
+      "#e0e0e0": 1
+    },
+    "Icons/Chicago95/apps/scalable/archive-manager.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/apps/scalable/calc.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/catfish.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/ccsm.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/apps/scalable/chromium-browser.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95/apps/scalable/clock.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1
+    },
+    "Icons/Chicago95/apps/scalable/com.visualstudio.code.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1
+    },
+    "Icons/Chicago95/apps/scalable/display-im6.q16.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/easytag.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/eject_pc_cool_6_48x48x4.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/apps/scalable/empathy.svg": {
+      "#c0c0c0": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95/apps/scalable/eom.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/evolution.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/apps/scalable/facebook.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#000080": 1,
+      "#00ffff": 1,
+      "#e0e0e0": 1
+    },
+    "Icons/Chicago95/apps/scalable/firefox.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95/apps/scalable/firefox_2.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/gcolor2.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/glade.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/gmail.svg": {
+      "#ffffff": 2,
+      "#000000": 1,
+      "#e0e0e0": 1
+    },
+    "Icons/Chicago95/apps/scalable/gmusicbrowser.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1
+    },
+    "Icons/Chicago95/apps/scalable/gnome-desktop-config.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/apps/scalable/gnome-do.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/gnome-fs-bookmark-missing.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/apps/scalable/gnome-network-properties.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/gnome-panel-force-quit.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/apps/scalable/gnome-panel-notification-area.svg": {
+      "#ffffff": 2,
+      "#000000": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/gnome-panel-window-list.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/gnome-power-manager.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#e0e0e0": 1
+    },
+    "Icons/Chicago95/apps/scalable/gnome-session-hibernate.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/apps/scalable/gnome-session-switch.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/apps/scalable/gnome-shutdown.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/gnome-sound-recorder.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/apps/scalable/gnome-sudoku.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/apps/scalable/google-hangout.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/apps/scalable/gstreamer-properties.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/apps/scalable/gtkpod.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/help-browser.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/apps/scalable/hwbrowser.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/im-aim.svg": {
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/apps/scalable/im-jabber.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/apps/scalable/im-msn.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95/apps/scalable/im-msn_2.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/im-msn_48.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/internet-mail.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95/apps/scalable/internet-news-reader.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/apps/scalable/kazam.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/libreoffice-base.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/apps/scalable/libreoffice-calc.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/libreoffice-impress.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/libreoffice-main.svg": {
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/apps/scalable/libreoffice-math.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/apps/scalable/lightdm-gtk-greeter-settings.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/apps/scalable/locale_48x48.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95/apps/scalable/logviewer.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/apps/scalable/lxfind.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/lxfind_48.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/mahjong.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/mail.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95/apps/scalable/mate-notification-properties.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/apps/scalable/mate-panel-launcher.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/apps/scalable/mate-power-manager.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/apps/scalable/mate-preferences-desktop-display.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/mateconf-editor.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/mdmsetup.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/apps/scalable/media-player-banshee.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/midori.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/apps/scalable/mines.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/apps/scalable/miro-browse.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/apps/scalable/mozo.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/mplayer.svg": {
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/apps/scalable/mugshot.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/apps/scalable/multimedia-photo-manager.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/multimedia-video-player.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/office-address-book.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#008080": 1
+    },
+    "Icons/Chicago95/apps/scalable/ooo-draw.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/apps/scalable/ooo-writer.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/org.xfce.panel.separator.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/apps/scalable/palemoon.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1
+    },
+    "Icons/Chicago95/apps/scalable/palm-pilot.svg": {
+      "#ffffff": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/apps/scalable/pidgin.svg": {
+      "#c0c0c0": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95/apps/scalable/plugin-scale.svg": {
+      "#ffffff": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/preferences-desktop-accesibility.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/preferences-desktop-default-applications.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/apps/scalable/preferences-desktop-font.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/apps/scalable/preferences-desktop-keyboard-shortcuts.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/apps/scalable/preferences-desktop-locale.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/preferences-desktop-remote-desktop.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/preferences-desktop-screensaver.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/apps/scalable/preferences-desktop-theme.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/apps/scalable/preferences-desktop-wallpaper.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/preferences-desktop.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/preferences-system-network.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/preferences-system-power.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/apps/scalable/preferences-system-services.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/preferences-system-windows.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/redshift-status-off.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/redshift-status-on.svg": {
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/apps/scalable/serpentine.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/session-properties.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#000080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95/apps/scalable/shotwell.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/apps/scalable/software.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/softwarecenter.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/stock_keyring.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/apps/scalable/system-config-display.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/system-file-manager.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/system-log-out.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/apps/scalable/system-software-update.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/system-users.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/apps/scalable/thunderbird.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/tomboy.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/apps/scalable/ubiquity.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/xchat-gnome.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/apps/scalable/xfce4-fsguard-plugin-warning.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/apps/scalable/xfce4-panel.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/xfce4-splash.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/apps/scalable/xfce4-workspaces.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/apps/scalable/youtube.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/categories/icons.html": {
+      "#000080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95/categories/scalable/application-community.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/categories/scalable/applications-internet.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/categories/scalable/configuration_section.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/categories/scalable/plugins-general.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#e0e0e0": 1
+    },
+    "Icons/Chicago95/categories/scalable/preferences-desktop-personal.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/devices/icons.html": {
+      "#000080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95/devices/scalable/battery.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/devices/scalable/block-device.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/devices/scalable/blueman-cellular.svg": {
+      "#ffffff": 2,
+      "#808080": 1
+    },
+    "Icons/Chicago95/devices/scalable/blueman-handheld.svg": {
+      "#ffffff": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/devices/scalable/blueman-keyboard.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/devices/scalable/blueman-loudspeaker.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/devices/scalable/blueman-mouse.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/devices/scalable/blueman-pointing.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/devices/scalable/blueman-smart-phone.svg": {
+      "#ffffff": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/devices/scalable/camera-photo.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/devices/scalable/camera-video.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/devices/scalable/cups.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/devices/scalable/cupsprinter.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/devices/scalable/drive-harddisk-scsi.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/devices/scalable/drive-harddisk-system.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/devices/scalable/drive-harddisk-usb.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/devices/scalable/drive-harddisk.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/devices/scalable/foomatic-gui-logo.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/devices/scalable/gnome-cd.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/devices/scalable/gnome-computer.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/devices/scalable/gnome-dev-dvd-alt.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/devices/scalable/gnome-dev-media-memory.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/devices/scalable/gnome-dev-memory.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/devices/scalable/gnome-dev-pcmcia.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/devices/scalable/gnome-dev-printer-new.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 2,
+      "#808080": 1
+    },
+    "Icons/Chicago95/devices/scalable/gnome-dev-unknown-1394.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/devices/scalable/gnome-dev-unknown-usb.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/devices/scalable/gnome-fs-blockdev.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/devices/scalable/gnome-mouse-properties.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/devices/scalable/gnome-mouse.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/devices/scalable/gnome-phone-manager.svg": {
+      "#ffffff": 2,
+      "#808080": 1
+    },
+    "Icons/Chicago95/devices/scalable/gnome-settings-mouse.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/devices/scalable/gtklp.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/devices/scalable/gtklpq.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/devices/scalable/input-tablet.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/devices/scalable/media-cdr.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/devices/scalable/media-cdrom-audio.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/devices/scalable/media-cdrw.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/devices/scalable/media-dvd.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/devices/scalable/media-dvdrw.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/devices/scalable/media-memory-sd.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/devices/scalable/media-memory-sm.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/devices/scalable/media-optical-audio.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/devices/scalable/media-optical-cd-r.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/devices/scalable/media-optical-cd-rw.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/devices/scalable/media-optical-cdr.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/devices/scalable/media-optical-dvd-r-plus.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/devices/scalable/media-optical-dvd-r.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/devices/scalable/media-optical-dvd-ram.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/devices/scalable/media-optical-dvd-rom.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/devices/scalable/media-optical-dvd-rw.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/devices/scalable/media-zip.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 3,
+      "#000000": 3,
+      "#808080": 1,
+      "#000080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/devices/scalable/multimedia-player-apple-ipod-touch.svg": {
+      "#ffffff": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/devices/scalable/multimedia-player-apple-ipod.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/devices/scalable/multimedia-player-ipod-touch.svg": {
+      "#ffffff": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/devices/scalable/multimedia-player-ipod.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/devices/scalable/multimedia-player.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/devices/scalable/music-player.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/devices/scalable/network-firewall.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2
+    },
+    "Icons/Chicago95/devices/scalable/phone-motorola-droid.svg": {
+      "#ffffff": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/devices/scalable/processor.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95/devices/scalable/stock_music-library.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/devices/scalable/system-config-printer.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/emblems/icons.html": {
+      "#000080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95/emblems/scalable/emblem-colors-blue.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/emblems/scalable/emblem-colors-brown.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/emblems/scalable/emblem-colors-green.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/emblems/scalable/emblem-colors-grey.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/emblems/scalable/emblem-colors-orange.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/emblems/scalable/emblem-colors-red.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/emblems/scalable/emblem-colors-violet.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/emblems/scalable/emblem-colors-white.svg": {
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/emblems/scalable/emblem-colors-yellow.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/emblems/scalable/emblem-default.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/emblems/scalable/emblem-documents.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/emblems/scalable/emblem-downloads.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/emblems/scalable/emblem-generic.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/emblems/scalable/emblem-important.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#808080": 1
+    },
+    "Icons/Chicago95/emblems/scalable/emblem-mail.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/emblems/scalable/emblem-new.svg": {
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/emblems/scalable/emblem-noread.svg": {
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/emblems/scalable/emblem-nowrite.svg": {
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/emblems/scalable/emblem-package.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/emblems/scalable/emblem-photos.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/emblems/scalable/emblem-readonly.svg": {
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/emblems/scalable/emblem-shared.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/emblems/scalable/emblem-system.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/emblems/scalable/emblem-unreadable.svg": {
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/emblems/scalable/emblem-urgent.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#808080": 1
+    },
+    "Icons/Chicago95/emblems/scalable/emblem-web.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95/emotes/icons.html": {
+      "#000080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95/mimes/icons.html": {
+      "#000080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/application-7zip.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/application-certificate.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/application-epub+zip.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/application-illustrator.svg": {
+      "#c0c0c0": 1
+    },
+    "Icons/Chicago95/mimes/scalable/application-msword.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/mimes/scalable/application-octet-stream.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/application-pdf.svg": {
+      "#c0c0c0": 1,
+      "#000000": 1
+    },
+    "Icons/Chicago95/mimes/scalable/application-rss+xml.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/application-vnd.nokia.qt.qmakeprofile.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/application-vnd.nokia.xml.qt.resource.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/mimes/scalable/application-vnd.oasis.opendocument.chart.png.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/mimes/scalable/application-vnd.oasis.opendocument.chart.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/mimes/scalable/application-x-cd-image.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/mimes/scalable/application-x-executable.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/application-x-flash-video.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/application-x-java.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/mimes/scalable/application-x-ms-dos-executable.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/application-x-object.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/application-x-php.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/application-x-rar.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/mimes/scalable/application-x-sln.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/application-x-theme.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/application-zip.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/audio-x-generic.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/audio-x-playlist.svg": {
+      "#c0c0c0": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/authors.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/mimes/scalable/empty.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/empty_48x48.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/extension.svg": {
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/font-x-generic.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/gnome-mime-application-pdf.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/gnome-mime-application-x-glade.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/image-bmp.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/image-gif.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1
+    },
+    "Icons/Chicago95/mimes/scalable/image-jpeg.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1
+    },
+    "Icons/Chicago95/mimes/scalable/image-png.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1
+    },
+    "Icons/Chicago95/mimes/scalable/image-tiff.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2
+    },
+    "Icons/Chicago95/mimes/scalable/image-x-compressed-xcf.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/image-x-generic.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/image-x-ico.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/image-x-psd.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/image-x-tga.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1
+    },
+    "Icons/Chicago95/mimes/scalable/image-x-xcf.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/image.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/libreoffice-database.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/libreoffice-drawing-template.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/libreoffice-drawing.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/libreoffice-formula.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/mimes/scalable/libreoffice-presentation-template.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/mimes/scalable/libreoffice-presentation.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/mimes/scalable/libreoffice-spreadsheet-template.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/mimes/scalable/libreoffice-text-template.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/mimes/scalable/libreoffice-text.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/mimes/scalable/media-audio.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/msaccess.exe_14_259_4_48x48x4.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/office-contact.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/office-database.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/package-x-generic.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/text-css.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/text-html.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/text-x-c++.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/text-x-c++hdr.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/text-x-changelog.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/text-x-chdr.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/text-x-csharp.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/text-x-csrc.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/text-x-generic-template.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/text-x-install.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/text-x-java-source.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/text-x-javascript.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/text-x-kgw.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/text-x-lua.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/text-x-makefile.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/text-x-perl.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/text-x-preview.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/text-x-python.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/text-x-ruby.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/text-x-script.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/text-x-vala.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/video-x-generic.svg": {
+      "#c0c0c0": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/x-office-adress-book.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/mimes/scalable/x-office-document-templat.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/mimes/scalable/x-office-document-template.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/mimes/scalable/x-office-drawing-template.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/x-office-drawing.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/mimes/scalable/x-office-spreadsheet-template.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/mimes/scalable/x-office-spreadsheet.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/notifications/icons.html": {
+      "#000080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95/panel/icons.html": {
+      "#000080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95/places/icons.html": {
+      "#000080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95/places/scalable/application-x-gnome-saved-search.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/places/scalable/desktop.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/places/scalable/edittrash.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/places/scalable/emptytrash.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/places/scalable/folder-documents.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/places/scalable/folder-drag-accept.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/places/scalable/folder-music-symbolic.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/places/scalable/folder-publicshare.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/places/scalable/folder-recent.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/places/scalable/folder-remote-ftp.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/places/scalable/folder-templates-symbolic.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/places/scalable/folder-ubuntuone.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/places/scalable/folder-videos.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/places/scalable/folder_download.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/places/scalable/folder_home.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/places/scalable/folder_images.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/places/scalable/folder_open.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/places/scalable/gnome-fs-bookmark.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/places/scalable/mail-mailbox.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1
+    },
+    "Icons/Chicago95/places/scalable/network-server.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/places/scalable/stock_music-library.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/places/scalable/user-bookmarks.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/status/icons.html": {
+      "#000080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95/status/scalable/appointment-missed.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/status/scalable/appointment-soon.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/status/scalable/aptdaemon-add.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/status/scalable/audio-volume-high.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/status/scalable/audio-volume-low.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/status/scalable/audio-volume-medium.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/status/scalable/audio-volume-muted.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/status/scalable/avatar-default.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/status/scalable/battery-000-charging.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/status/scalable/battery-000.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/status/scalable/battery-020-charging.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/status/scalable/battery-020.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/status/scalable/battery-040-charging.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/status/scalable/battery-040.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/status/scalable/battery-060-charging.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/status/scalable/battery-060.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/status/scalable/battery-080-charging.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/status/scalable/battery-080.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/status/scalable/battery-100-charging.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/status/scalable/battery-100.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/status/scalable/battery-ac-adapter.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/status/scalable/connect_creating.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#000080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/status/scalable/connect_no.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/status/scalable/dialog-password.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/status/scalable/gnome-dev-wavelan-encrypted.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/status/scalable/gnome-fs-loading-icon.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/status/scalable/gnome-netstatus-error.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/status/scalable/gnome-netstatus-idle.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/status/scalable/gnome-netstatus-rx.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#000080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/status/scalable/gnome-netstatus-tx.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/status/scalable/mail-attachment.svg": {
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/status/scalable/mail-read.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/status/scalable/mail-replied.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/status/scalable/mail-unread.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/status/scalable/media-playlist-repeat.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1
+    },
+    "Icons/Chicago95/status/scalable/media-playlist-shuffle.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1
+    },
+    "Icons/Chicago95/status/scalable/printer-error.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/status/scalable/security-low.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/status/scalable/security-medium.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/status/scalable/software-update-available.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/status/scalable/software-update-urgent.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1,
+      "#008080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/status/scalable/task-due.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95/status/scalable/task-past-due.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95/status/scalable/weather-clear-night.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/status/scalable/weather-clear.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/status/scalable/weather-few-clouds-night.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/status/scalable/weather-few-clouds.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/status/scalable/weather-overcast.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/status/scalable/weather-severe-alert.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/status/scalable/weather-showers-scattered.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/status/scalable/weather-showers.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/status/scalable/weather-snow.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#00ffff": 1
+    },
+    "Icons/Chicago95/status/scalable/weather-storm.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/stock/icons.html": {
+      "#000080": 1,
+      "#008080": 1
+    },
+    "Icons/Chicago95/stock/scalable/avatar-default.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/stock/scalable/stock_network-printer.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Icons/Chicago95/stock/scalable/stock_people.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1,
+      "#000080": 1
+    },
+    "Icons/Chicago95/tools/icons.html": {
+      "#000080": 1,
+      "#008080": 1
+    },
+    "KDE/SDDM/Chicago95/button-hover.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 8,
+      "#000000": 6,
+      "#808080": 3
+    },
+    "KDE/SDDM/Chicago95/button-pressed.svg": {
+      "#c0c0c0": 3,
+      "#ffffff": 6,
+      "#000000": 5,
+      "#808080": 3
+    },
+    "KDE/SDDM/Chicago95/button.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 8,
+      "#000000": 6,
+      "#808080": 3
+    },
+    "KDE/SDDM/Chicago95/close-hover.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 13,
+      "#808080": 2
+    },
+    "KDE/SDDM/Chicago95/close-pressed.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 13,
+      "#808080": 2
+    },
+    "KDE/SDDM/Chicago95/close.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 13,
+      "#808080": 2
+    },
+    "KDE/SDDM/Chicago95/entry-focused.svg": {
+      "#c0c0c0": 4,
+      "#ffffff": 10,
+      "#000000": 3,
+      "#808080": 5
+    },
+    "KDE/SDDM/Chicago95/entry.svg": {
+      "#c0c0c0": 4,
+      "#ffffff": 10,
+      "#000000": 3,
+      "#808080": 5
+    },
+    "KDE/SDDM/Chicago95/greeter.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 2,
+      "#808080": 2
+    },
+    "KDE/SDDM/Chicago95/help.svg": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 12,
+      "#808080": 2
+    },
+    "Lightdm/Chicago95/css/layout.css": {
+      "#c0c0c0": 3,
+      "#808080": 2,
+      "#000080": 2,
+      "#008080": 1,
+      "#e0e0e0": 1
+    },
+    "Lightdm/Chicago95/css/normalize.css": {
+      "#c0c0c0": 1
+    },
+    "Plus/PlusGUI.py": {
+      "#c0c0c0": 4,
+      "#ffffff": 5,
+      "#000000": 7,
+      "#808080": 2,
+      "#000080": 2
+    },
+    "Plus/pluslib.py": {
+      "#c0c0c0": 9,
+      "#ffffff": 7,
+      "#000000": 12,
+      "#808080": 8,
+      "#000080": 2
+    },
+    "Theme/Chicago95/cinnamon/cinnamon.css": {
+      "#c0c0c0": 19,
+      "#ffffff": 11,
+      "#000000": 3,
+      "#808080": 11,
+      "#000080": 19
+    },
+    "Theme/Chicago95/gnome-shell/_colors.scss": {
+      "#c0c0c0": 5,
+      "#ffffff": 3,
+      "#000000": 6,
+      "#808080": 2,
+      "#000080": 2
+    },
+    "Theme/Chicago95/gnome-shell/assets-render/checkbox-checked.svg": {
+      "#c0c0c0": 2,
+      "#ffffff": 2,
+      "#808080": 2
+    },
+    "Theme/Chicago95/gnome-shell/assets-render/checkbox-unchecked.svg": {
+      "#c0c0c0": 2,
+      "#ffffff": 2,
+      "#808080": 2
+    },
+    "Theme/Chicago95/gnome-shell/assets-render/radio-selected.svg": {
+      "#c0c0c0": 2,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 2
+    },
+    "Theme/Chicago95/gnome-shell/assets-render/radio-unselected.svg": {
+      "#c0c0c0": 2,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 2
+    },
+    "Theme/Chicago95/gnome-shell/gnome-shell.css": {
+      "#c0c0c0": 16,
+      "#ffffff": 18,
+      "#000000": 61,
+      "#000080": 25
+    },
+    "Theme/Chicago95/gtk-2.0/gtkrc": {
+      "#c0c0c0": 3,
+      "#ffffff": 4,
+      "#000000": 7,
+      "#000080": 2
+    },
+    "Theme/Chicago95/gtk-2.0/tabwin.rc": {
+      "#c0c0c0": 2,
+      "#000000": 1
+    },
+    "Theme/Chicago95/gtk-3.0/apps/mate.css": {
+      "#808080": 1
+    },
+    "Theme/Chicago95/gtk-3.0/gtk.css": {
+      "#c0c0c0": 2,
+      "#ffffff": 8,
+      "#000000": 6,
+      "#808080": 4,
+      "#000080": 2
+    },
+    "Theme/Chicago95/metacity-1/metacity-theme-1.xml": {
+      "#ffffff": 9,
+      "#000000": 6,
+      "#808080": 11,
+      "#d4d0c8": 1
+    },
+    "Theme/Chicago95/misc/whisker-sidebar.svg": {
+      "#c0c0c0": 12,
+      "#ffffff": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4/bottom-active.xpm": {
+      "#c0c0c0": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4/bottom-inactive.xpm": {
+      "#c0c0c0": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4/bottom-left-active.xpm": {
+      "#c0c0c0": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4/bottom-left-inactive.xpm": {
+      "#c0c0c0": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4/bottom-right-active.xpm": {
+      "#c0c0c0": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4/bottom-right-inactive.xpm": {
+      "#c0c0c0": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4/close-active.xpm": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 2,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4/close-inactive.xpm": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 2,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4/close-pressed.xpm": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4/hide-active.xpm": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4/hide-inactive.xpm": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4/hide-pressed.xpm": {
+      "#c0c0c0": 1,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4/left-active.xpm": {
+      "#c0c0c0": 1,
+      "#ffffff": 1
+    },
+    "Theme/Chicago95/xfwm4/left-inactive.xpm": {
+      "#c0c0c0": 1,
+      "#ffffff": 1
+    },
+    "Theme/Chicago95/xfwm4/maximize-active.xpm": {
+      "#c0c0c0": 2,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4/maximize-inactive.xpm": {
+      "#c0c0c0": 2,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4/maximize-pressed.xpm": {
+      "#c0c0c0": 2,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4/maximize-toggled-active.xpm": {
+      "#c0c0c0": 2,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4/maximize-toggled-inactive.xpm": {
+      "#c0c0c0": 2,
+      "#ffffff": 2,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4/maximize-toggled-pressed.xpm": {
+      "#c0c0c0": 1,
+      "#000000": 1
+    },
+    "Theme/Chicago95/xfwm4/menu-active.xpm": {
+      "#c0c0c0": 1
+    },
+    "Theme/Chicago95/xfwm4/menu-inactive.xpm": {
+      "#c0c0c0": 1
+    },
+    "Theme/Chicago95/xfwm4/right-active.xpm": {
+      "#c0c0c0": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4/right-inactive.xpm": {
+      "#c0c0c0": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4/themerc": {
+      "#c0c0c0": 7,
+      "#ffffff": 3,
+      "#000000": 4,
+      "#808080": 4,
+      "#000080": 2
+    },
+    "Theme/Chicago95/xfwm4/title-1-active.xpm": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4/title-1-inactive.xpm": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4/title-2-active.xpm": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4/title-2-inactive.xpm": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4/title-3-active.xpm": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4/title-3-inactive.xpm": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4/title-4-active.xpm": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4/title-4-inactive.xpm": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4/title-5-active.xpm": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4/title-5-inactive.xpm": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4/top-left-active.xpm": {
+      "#c0c0c0": 2,
+      "#ffffff": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4/top-left-inactive.xpm": {
+      "#c0c0c0": 2,
+      "#ffffff": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4/top-right-active.xpm": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4/top-right-inactive.xpm": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4_hidpi/bottom-active.xpm": {
+      "#c0c0c0": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4_hidpi/bottom-inactive.xpm": {
+      "#c0c0c0": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4_hidpi/bottom-left-active.xpm": {
+      "#c0c0c0": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4_hidpi/bottom-left-inactive.xpm": {
+      "#c0c0c0": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4_hidpi/bottom-right-active.xpm": {
+      "#c0c0c0": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4_hidpi/bottom-right-inactive.xpm": {
+      "#c0c0c0": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4_hidpi/close-active.xpm": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4_hidpi/close-inactive.xpm": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4_hidpi/close-pressed.xpm": {
+      "#c0c0c0": 1,
+      "#000000": 1
+    },
+    "Theme/Chicago95/xfwm4_hidpi/hide-active.xpm": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4_hidpi/hide-inactive.xpm": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4_hidpi/hide-pressed.xpm": {
+      "#c0c0c0": 1,
+      "#000000": 1
+    },
+    "Theme/Chicago95/xfwm4_hidpi/left-active.xpm": {
+      "#c0c0c0": 1,
+      "#ffffff": 1
+    },
+    "Theme/Chicago95/xfwm4_hidpi/left-inactive.xpm": {
+      "#c0c0c0": 1,
+      "#ffffff": 1
+    },
+    "Theme/Chicago95/xfwm4_hidpi/maximize-active.xpm": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4_hidpi/maximize-inactive.xpm": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4_hidpi/maximize-pressed.xpm": {
+      "#c0c0c0": 1,
+      "#000000": 1
+    },
+    "Theme/Chicago95/xfwm4_hidpi/maximize-toggled-active.xpm": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4_hidpi/maximize-toggled-inactive.xpm": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4_hidpi/maximize-toggled-pressed.xpm": {
+      "#c0c0c0": 1,
+      "#000000": 1
+    },
+    "Theme/Chicago95/xfwm4_hidpi/menu-active.xpm": {
+      "#c0c0c0": 1
+    },
+    "Theme/Chicago95/xfwm4_hidpi/menu-inactive.xpm": {
+      "#c0c0c0": 1
+    },
+    "Theme/Chicago95/xfwm4_hidpi/menu-pressed.xpm": {
+      "#c0c0c0": 1
+    },
+    "Theme/Chicago95/xfwm4_hidpi/right-active.xpm": {
+      "#c0c0c0": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4_hidpi/right-inactive.xpm": {
+      "#c0c0c0": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4_hidpi/themerc": {
+      "#c0c0c0": 5,
+      "#ffffff": 3,
+      "#000000": 4,
+      "#808080": 4,
+      "#000080": 2
+    },
+    "Theme/Chicago95/xfwm4_hidpi/title-1-active.xpm": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4_hidpi/title-1-inactive.xpm": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4_hidpi/title-2-active.xpm": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4_hidpi/title-2-inactive.xpm": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4_hidpi/title-3-active.xpm": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4_hidpi/title-3-inactive.xpm": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4_hidpi/title-4-active.xpm": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4_hidpi/title-4-inactive.xpm": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4_hidpi/title-5-active.xpm": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4_hidpi/title-5-inactive.xpm": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4_hidpi/top-right-active.xpm": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "Theme/Chicago95/xfwm4_hidpi/top-right-inactive.xpm": {
+      "#c0c0c0": 1,
+      "#ffffff": 1,
+      "#000000": 1,
+      "#808080": 1
+    },
+    "installer.py": {
+      "#008080": 2
+    }
+  },
+  "total_files": 1012,
+  "total_replacements": 7908
+}
