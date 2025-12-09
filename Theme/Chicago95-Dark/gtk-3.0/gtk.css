@@ -20,19 +20,19 @@
 @define-color selected_bg_color #000080; /* Windows Theme: hilight */
 @define-color selected_fg_color #ffffff; /* Windows Theme: hilighttext */
 @define-color selected_inactive_bg_color #525252; 
-@define-color selected_inactive_fg_color #000000; 
+@define-color selected_inactive_fg_color #aaaaaa; 
 @define-color tooltip_bg_color #131313; /* Windows Theme: infowindow, Tooltip background color */ 
 @define-color tooltip_bg_shade #494940; /* Windows Theme: infotext, sometimes text hinting? */
-@define-color tooltip_fg_color #000000; /* Windows Theme: infotext */
+@define-color tooltip_fg_color #ffffff; /* Windows Theme: infotext */
 @define-color bg_bright @bg_color; /* Windows Theme: window, White inner window/text areas */
 @define-color bg_shade shade(@bg_color, 0.66); 
 @define-color bg_dark shade(@bg_color, 0.13); 
 @define-color border_color @bg_color; /* Window Theme: buttonface */
 @define-color border_bright #525252; /* Windows Theme: buttonlight */
-@define-color border_light #525252; /* Windows Theme: buttonhilight */
+@define-color border_light #303030; /* Windows Theme: buttonhilight */
 @define-color border_dark #000000; /* Windows Theme: buttondkshadow */
-@define-color border_shade #525252; /* Windows Theme: buttonshadow */
-@define-color border_shade_dark #080808; 
+@define-color border_shade #000000; /* Windows Theme: buttonshadow */
+@define-color border_shade_dark #000000; 
 @define-color outline_color black; 
 @define-color font_color @text_color; /* Windows Theme: windowtext (any white area text)*/
 @define-color font_bright white; 
@@ -47,10 +47,10 @@
 @define-color scrollbar_trough_bg_color #131313; /* Window theme: scrollbar, also controls task bar background color, per windows 95 themes */
 @define-color scrollbar_bg_color @button_bg_color; /* Window theme: (scrollbar) buttonface */
 @define-color scrollbar_solid_color @bg_color; /* Window Theme: Scrollbar, this is only if you want the scrollbar trough solid color */
-@define-color window_title_bg_color @selected_bg_color; /* Windows Theme: activetitle */
-@define-color window_title_text_color @selected_fg_color;  /* Windows Theme: titletext */
-@define-color inactive_title_bg_color #525252; /* Windows Theme: inactivetitle */
-@define-color inactive_title_text_color #ffffff; /* Windows Theme: inactivetitletext */
+@define-color window_title_bg_color #000080; /* Windows Theme: activetitle */
+@define-color window_title_text_color #ffffff;  /* Windows Theme: titletext */
+@define-color inactive_title_bg_color #202020; /* Windows Theme: inactivetitle */
+@define-color inactive_title_text_color #aaaaaa; /* Windows Theme: inactivetitletext */
 
 /* dark color scheme */
 @define-color dark_bg_color @bg_color;
@@ -203,3 +203,62 @@
 @import url("apps/synaptic.css");*/
 @import url("apps/lightdm-gtk-greeter.css");
 @import url("apps/xfce-panel-hacks.css");
+
+/* Win95 Dark overrides for core widgets */
+button,
+spinbutton,
+entry,
+textview,
+combobox,
+notebook,
+menubar,
+menu,
+menuitem,
+toolbar,
+treeview,
+list,
+paned,
+frame,
+scrolledwindow,
+infobar,
+statusbar,
+.panel,
+.osd {
+  background-color: #131313;
+  color: #ffffff;
+  border: 1px solid #000000;
+  box-shadow: inset 1px 1px #303030, inset -1px -1px #525252;
+}
+
+entry,
+textview {
+  border: 1px solid #000000;
+  box-shadow: inset 1px 1px #303030, inset -1px -1px #000000;
+}
+
+button:disabled,
+entry:disabled,
+combobox:disabled {
+  color: #aaaaaa;
+}
+
+menu,
+menubar,
+menuitem,
+list,
+treeview,
+scrolledwindow,
+.popup-menu,
+.popup-menu-content {
+  background-color: #131313;
+  color: #ffffff;
+  border-color: #525252;
+}
+
+menuitem:hover,
+menuitem:selected,
+list row:selected,
+treeview:selected {
+  background-color: #000080;
+  color: #ffffff;
+}

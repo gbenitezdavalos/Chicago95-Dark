@@ -15,16 +15,15 @@ scrollbar {
   scrollbar trough {
     border: none;
     border-radius: 0; }
-  scrollbar slider {
-    margin-top: 0px;
-    padding: 0px;
-    background-color: @scrollbar_bg_color;
-    border: 2px solid @border_dark;
-    box-shadow: none;
-    border-image: url("scrollbar/scrollbar_button.png");
-    border-image-slice: 2 2 2 2;
-    min-width: 12px;
-    min-height: 12px; }
+scrollbar slider {
+  margin-top: 0px;
+  padding: 0px;
+  background-color: #525252;
+  border: 1px solid #000000;
+  box-shadow: inset 1px 1px #303030, inset -1px -1px #000000;
+  border-image: none;
+  min-width: 12px;
+  min-height: 12px; }
   /* This is for Libreoffice scrollbar buttons */
   scrollbar button,
   scrollbar .button {

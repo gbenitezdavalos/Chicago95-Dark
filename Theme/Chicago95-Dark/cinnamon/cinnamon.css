@@ -743,6 +743,32 @@ StScrollBar StButton#hhandle {
 .nemo-desktop label {
   color: #ffffff !important;
 }
+
+/* Win95 Dark bevels and panels */
+#panel,
+#panel * {
+  background-color: #131313;
+  color: #ffffff;
+}
+
+.panel-launchers .launcher,
+.panel-menu,
+.panel-button,
+.popup-menu,
+.popup-menu-boxpointer,
+.popup-menu-content {
+  background-color: #131313;
+  color: #ffffff;
+  border: 1px solid #000000;
+  box-shadow: inset 1px 1px #303030, inset -1px -1px #525252;
+}
+
+.popup-menu-item:hover,
+.popup-menu-item:active,
+.panel-menu .popup-menu-item:active {
+  background-color: #000080;
+  color: #ffffff;
+}
 
 .modal-dialog-button-box {
   spacing: 110px;
