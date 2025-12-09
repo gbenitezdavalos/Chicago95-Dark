@@ -747,7 +747,7 @@ StScrollBar StButton#hhandle {
 /* Win95 Dark bevels and panels */
 #panel,
 #panel * {
-  background-color: #131313;
+  background-color: #251C34;
   color: #ffffff;
 }
 
@@ -757,16 +757,16 @@ StScrollBar StButton#hhandle {
 .popup-menu,
 .popup-menu-boxpointer,
 .popup-menu-content {
-  background-color: #131313;
+  background-color: #251C34;
   color: #ffffff;
-  border: 1px solid #000000;
-  box-shadow: inset 1px 1px #303030, inset -1px -1px #525252;
+  border: 1px solid #050308;
+  box-shadow: inset 1px 1px #100A16, inset -1px -1px #050308;
 }
 
 .popup-menu-item:hover,
 .popup-menu-item:active,
 .panel-menu .popup-menu-item:active {
-  background-color: #000080;
+  background-color: #6D5BAE;
   color: #ffffff;
 }
 
