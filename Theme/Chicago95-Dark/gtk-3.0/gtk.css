@@ -28,12 +28,12 @@
 @define-color bg_shade shade(@bg_color, 0.66); 
 @define-color bg_dark shade(@bg_color, 0.13); 
 @define-color border_color @bg_color; /* Window Theme: buttonface */
-@define-color border_bright #3A2D52; /* Windows Theme: buttonlight */
-@define-color border_light #100A16; /* Windows Theme: buttonhilight */
-@define-color border_dark #050308; /* Windows Theme: buttondkshadow */
-@define-color border_shade #050308; /* Windows Theme: buttonshadow */
-@define-color border_shade_dark #050308; 
-@define-color outline_color black; 
+@define-color border_bright #242424; /* Windows Theme: buttonlight */
+@define-color border_light #1d1d1d; /* Windows Theme: buttonhilight */
+@define-color border_dark #000000; /* Windows Theme: buttondkshadow */
+@define-color border_shade #000000; /* Windows Theme: buttonshadow */
+@define-color border_shade_dark #000000; 
+@define-color outline_color #2e2e2e; 
 @define-color font_color @text_color; /* Windows Theme: windowtext (any white area text)*/
 @define-color font_bright white; 
 @define-color disabled_font_shadow @border_bright; /* Windows Theme: buttonhilight, testing confirmed this is what Windows 95 Uses for this setting */
@@ -226,14 +226,14 @@ statusbar,
 .osd {
   background-color: #1B1527;
   color: #ffffff;
-  border: 1px solid #050308;
-  box-shadow: inset 1px 1px #100A16, inset -1px -1px #050308;
+  border: 1px solid #000000;
+  box-shadow: inset 1px 1px #242424, inset -1px -1px #000000;
 }
 
 entry,
 textview {
-  border: 1px solid #050308;
-  box-shadow: inset 1px 1px #100A16, inset -1px -1px #050308;
+  border: 1px solid #000000;
+  box-shadow: inset 1px 1px #242424, inset -1px -1px #000000;
 }
 
 button:disabled,
@@ -252,7 +252,7 @@ scrolledwindow,
 .popup-menu-content {
   background-color: #251C34;
   color: #ffffff;
-  border-color: #050308;
+  border-color: #000000;
 }
 
 menuitem:hover,

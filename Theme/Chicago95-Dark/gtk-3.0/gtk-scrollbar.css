@@ -19,8 +19,8 @@ scrollbar slider {
   margin-top: 0px;
   padding: 0px;
   background-color: #3A2D52;
-  border: 1px solid #050308;
-  box-shadow: inset 1px 1px #100A16, inset -1px -1px #050308;
+  border: 1px solid #000000;
+  box-shadow: inset 1px 1px #242424, inset -1px -1px #000000;
   border-image: none;
   min-width: 12px;
   min-height: 12px; }
