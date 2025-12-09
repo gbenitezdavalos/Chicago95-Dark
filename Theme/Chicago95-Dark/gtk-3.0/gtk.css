@@ -133,7 +133,23 @@
 
 /* XFCE desktop icon colours*/
 @define-color xfd_icon_backdrop #008081;
-@define-color xfd_icon_text #ffffff;
+@define-color xfd_icon_text #ffffff;
+
+.nemo-desktop,
+.nemo-desktop .view,
+.nautilus-desktop-window,
+.nautilus-desktop-window .view,
+.thunar-desktop,
+.thunar-desktop .view {
+  background-color: #131313;
+  color: #ffffff;
+}
+
+.nemo-canvas-item,
+.nemo-canvas-item-label,
+.nemo-desktop label {
+  color: #ffffff;
+}
 @define-color xfd_rubberband_outline #ff7f7f;
 
 /* Nautilus desktop icon text colour */

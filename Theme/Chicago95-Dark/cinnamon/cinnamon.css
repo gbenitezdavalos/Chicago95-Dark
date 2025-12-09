@@ -730,6 +730,19 @@ StScrollBar StButton#hhandle {
   border-image: url("background-assets/menu.png") 6;
   color: #ffffff;
   padding: 20px; }
+
+/* Desktop background and labels (Cinnamon/Nemo) */
+.nemo-desktop,
+.nemo-desktop .view {
+  background-color: #131313 !important;
+  color: #ffffff !important;
+}
+
+.nemo-canvas-item,
+.nemo-canvas-item-label,
+.nemo-desktop label {
+  color: #ffffff !important;
+}
 
 .modal-dialog-button-box {
   spacing: 110px;
